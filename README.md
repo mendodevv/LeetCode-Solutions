@@ -7,3 +7,4 @@ Repository containing my solutions and approaches to LeetCode problems
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./algorithms/java/balancedBinaryTree.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./algorithms/java/findMinimumInRotatedSortedArray.java)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./algorithms/java/KthLargestElementInAnArray.java)|Medium|
+|973|[Kth Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Java](./algorithms/java/KClosestPointsToOrigin.java)|Medium|
