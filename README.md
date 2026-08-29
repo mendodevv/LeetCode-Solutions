@@ -10,3 +10,5 @@ Repository containing my solutions and approaches to LeetCode problems
 |973|[Kth Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Java](./algorithms/java/KClosestPointsToOrigin.java)|Medium|
 |206|[Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./algorithms/java/reversedLinkedList.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/linkedListCycle.java)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./algorithms/java/twoSum.java)|Easy|
+
