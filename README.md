@@ -11,4 +11,5 @@ Repository containing my solutions and approaches to LeetCode problems
 |206|[Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./algorithms/java/reversedLinkedList.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/linkedListCycle.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./algorithms/java/twoSum.java)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./algorithms/java/validPalindrome.java)|Easy|
 
