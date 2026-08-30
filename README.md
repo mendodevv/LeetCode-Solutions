@@ -12,5 +12,5 @@ Repository containing my solutions and approaches to LeetCode problems
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/linkedListCycle.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./algorithms/java/twoSum.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./algorithms/java/validPalindrome.java)|Easy|
-||[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./algorithms/java/longestSubstringWithoutRepeatingCharacters.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./algorithms/java/longestSubstringWithoutRepeatingCharacters.java)|Medium|
 
