@@ -13,4 +13,5 @@ Repository containing my solutions and approaches to LeetCode problems
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./algorithms/java/twoSum.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./algorithms/java/validPalindrome.java)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./algorithms/java/longestSubstringWithoutRepeatingCharacters.java)|Medium|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Java](./algorithms/java/kokoEatingBananas.java)|Medium|
 
